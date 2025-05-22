@@ -18,12 +18,8 @@ Features ✨
 
 Technologies Used 🛠️
 
-Frontend	    Additional Libraries
+Frontend	-  HTML5, CSS3,	JavaScript
 
-HTML5	          Font Awesome
-
-CSS3	          Google Fonts
-
-JavaScript
+Additional Libraries - Font Awesome, Google Fonts
 
 
